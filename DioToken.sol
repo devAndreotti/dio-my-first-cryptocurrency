@@ -33,11 +33,11 @@ interface IERC20 {
     event Approval(address indexed owner, address indexed spender, uint256 value);
 }
 
-// Implementação do token DIO Token baseado no padrão ERC-20
-contract DIOToken is IERC20 {
+// Implementação do Dio Token baseado no padrão ERC-20
+contract DioToken is IERC20 {
 
     // Nome do token
-    string public constant name = "DIO Token";
+    string public constant name = "Dio Token";
 
     // Símbolo do token
     string public constant symbol = "DIO";
