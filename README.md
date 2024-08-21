@@ -43,7 +43,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 
 ### Contrato DIOToken
 
-O contrato `DIOToken` implementa a interface `IERC20` e inclui:
+O contrato `DioToken` implementa a interface `IERC20` e inclui:
 
 - **Nome do Token**: `DIO Token`
 - **Símbolo do Token**: `DIO`
