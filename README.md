@@ -1,7 +1,7 @@
 # Desafio DIO - Minha Primeira Criptomoeda
 
 <div align="center">
-  <img src="Thumb.png" alt="Ganache Wallpaper"/>
+  <img src="09628c52-fbb0-41b5-aa45-31b6caf52336.png" alt="Ganache Wallpaper"/>
 </div>
 
 ## Objetivo do Projeto
