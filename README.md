@@ -23,11 +23,6 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 - **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar uma quantidade específica de tokens e transferir esses tokens usando a função `transferFrom`.
 - **Consulta de Saldo e Permissão**: Consulta o saldo de tokens de um endereço usando a função `balanceOf` e o quanto um endereço pode gastar em nome de outro usando a função `allowance`.
 
-### Eventos
-
-- **Transfer**: Emitido quando ocorre uma transferência de tokens.
-- **Approval**: Emitido quando uma conta aprova outra para gastar seus tokens.
-
 ## Estrutura do Contrato
 
 ### Interface IERC20
