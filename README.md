@@ -1,4 +1,4 @@
-# Desafio DIO - Criando Minha Primeira Criptomoeda
+# Desafio DIO - Minha Primeira Criptomoeda
 
 <div align="center">
   <img src="Thumb.png" alt="Ethereum Logo"/>
