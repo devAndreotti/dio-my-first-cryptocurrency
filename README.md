@@ -6,7 +6,7 @@
 
 ## Objetivo do Projeto
 
-Este projeto implementa um token ERC-20 chamado **DIO Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity. O projeto inclui a criação, transferência e gerenciamento de tokens, seguindo a especificação padrão ERC-20.
+Este projeto implementa um token ERC-20 chamado **DIO Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity. O projeto inclui a criação, transferência e gerenciamento de tokens.
 
 ## Tecnologias Empregadas
 
