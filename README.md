@@ -9,6 +9,12 @@
 
 Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity. O projeto inclui a criação, transferência e gerenciamento de tokens.
 
+## Funcionalidades
+
+- **Transferência de Tokens**: Permite a transferência de tokens entre endereços usando a função `transfer`.
+- **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar uma quantidade específica de tokens e transferir esses tokens usando a função `transferFrom`.
+- **Consulta de Saldo e Permissão**: Consulta o saldo de tokens de um endereço usando a função `balanceOf` e o quanto um endereço pode gastar em nome de outro usando a função `allowance`.
+
 ## Tecnologias Empregadas
 
 - **Solidity**: Linguagem de programação para contratos inteligentes na Ethereum.
@@ -16,12 +22,6 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 - **MetaMask**: Carteira de criptomoedas que permite interagir com a rede Ethereum e seus contratos.
 - **Remix IDE**: Ambiente integrado para criar, testar e implantar contratos inteligentes na Ethereum.
 - **Truffle**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
-
-## Funcionalidades
-
-- **Transferência de Tokens**: Permite a transferência de tokens entre endereços usando a função `transfer`.
-- **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar uma quantidade específica de tokens e transferir esses tokens usando a função `transferFrom`.
-- **Consulta de Saldo e Permissão**: Consulta o saldo de tokens de um endereço usando a função `balanceOf` e o quanto um endereço pode gastar em nome de outro usando a função `allowance`.
 
 ## Interface IERC20
 
