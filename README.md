@@ -14,7 +14,7 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 - **Solidity**: Linguagem de programação para contratos inteligentes na Ethereum.
 - **Ganache**: Ferramenta para criar uma blockchain local para testar contratos inteligentes.
 - **MetaMask**: Carteira de criptomoedas que permite interagir com a rede Ethereum e seus contratos.
-- **Remix IDE**: Ambiente de desenvolvimento integrado para criar, testar e implantar contratos inteligentes na Ethereum.
+- **Remix IDE**: Ambiente integrado para criar, testar e implantar contratos inteligentes na Ethereum.
 - **Truffle**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
 
 ## Funcionalidades
