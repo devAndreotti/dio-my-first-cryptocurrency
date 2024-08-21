@@ -1,7 +1,7 @@
 # Desafio DIO - Minha Primeira Criptomoeda
 
 <div align="center">
-  <img src="Thumb.png" alt="Ethereum Logo"/>
+  <img src="Thumb.png" alt="Ganache Wallpaper"/>
 </div>
 
 ## Objetivo do Projeto
