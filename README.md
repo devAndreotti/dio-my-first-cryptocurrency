@@ -49,15 +49,6 @@ O contrato implementa a interface `IERC20` e inclui:
 - **Símbolo do Token**: `DIO`
 - **Casas Decimais**: `18`
 
-#### Funções Principais
-
-- **totalSupply()**: Retorna o total de tokens emitidos, inicializado como 10 ether.
-- **balanceOf(address tokenOwner)**: Retorna o saldo de tokens de um endereço.
-- **transfer(address receiver, uint256 numTokens)**: Transfere tokens do remetente para outro endereço.
-- **approve(address delegate, uint256 numTokens)**: Aprova um endereço a gastar uma quantidade específica de tokens.
-- **allowance(address owner, address delegate)**: Verifica quanto um endereço pode gastar em nome de outro.
-- **transferFrom(address owner, address buyer, uint256 numTokens)**: Transfere tokens de um endereço para outro usando a permissão concedida.
-
 ## Guia de Implementação
 
 1. **Configuração do Ambiente**
