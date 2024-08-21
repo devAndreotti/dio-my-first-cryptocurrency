@@ -39,7 +39,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 - `allowance(address owner, address spender)`: Retorna a quantidade de tokens que um spender pode gastar em nome do owner.
 - `transfer(address recipient, uint256 amount)`: Transfere tokens para outro endereço.
 - `approve(address spender, uint256 amount)`: Aprova um spender a gastar uma quantidade específica de tokens.
-- `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando uma permissão prévia.
+- `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando permissão prévia.
 
 ### Contrato DioToken
 
