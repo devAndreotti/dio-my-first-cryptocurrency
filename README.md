@@ -57,21 +57,13 @@ O contrato implementa a interface `IERC20` e inclui:
    - **Remix IDE**: Acesse [Remix Ethereum IDE](https://remix.ethereum.org) para compilar e implantar o contrato.
    - **Truffle**: Instale o Truffle com `npm install -g truffle`. Crie um novo projeto com `truffle init`.
 
-## Implementação do Contrato
-
 2. **Implementação do Contrato**
-   - Abra o Remix IDE e cole o código do contrato `DioToken` no editor.
-   - Compile o contrato e verifique se não há erros.
-   - Implante o contrato na rede local usando Ganache e o Truffle:
-     1. No terminal Git Bash, execute o seguinte comando para compilar os contratos:
-        ```bash
-        truffle compile
-        ```
-     2. Configure o arquivo `truffle-config.js` para conectar-se à sua rede local.
-     3. Ainda no Git Bash, execute o comando para migrar (implantar) o contrato:
-        ```bash
-        truffle migrate
-        ```
+      - Inicie o Remix IDE e insira o código do contrato `DioToken` no editor principal.
+      - Execute a compilação do contrato diretamente no Remix. Certifique-se de que não haja erros, e o contrato esteja pronto para ser implantado.
+      - **Preparação do Ambiente:** Abra o Ganache para criar uma blockchain local e garantir a conexão com o Truffle.
+      - **Compilação com Truffle:** No terminal, utilize `truffle compile` para compilar o contrato. Certifique-se de que o processo seja concluído sem falhas.
+      - **Configuração do Truffle:** No arquivo `truffle-config.js`, ajuste as configurações para conectar-se à rede local fornecida pelo Ganache.
+      - **Migração e Implantação:** Execute `truffle migrate` no terminal para realizar a migração e implantação do contrato na sua rede local.
 
 3. **Interação com o Contrato**
    - Use a interface do Remix ou o Truffle Console (`truffle console`) para interagir com o contrato e realizar transações de teste.
