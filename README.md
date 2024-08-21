@@ -15,7 +15,7 @@ Este projeto implementa um token ERC-20 chamado **DIO Token**. O objetivo é for
 - **Ganache**: Ferramenta para criar uma blockchain local para testar contratos inteligentes.
 - **MetaMask**: Carteira de criptomoedas que permite interagir com a rede Ethereum e seus contratos.
 - **Remix IDE**: Ambiente de desenvolvimento integrado para criar, testar e implantar contratos inteligentes na Ethereum.
-- **Truffle**: Framework de desenvolvimento para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
+- **Truffle**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
 
 ## Funcionalidades
 
