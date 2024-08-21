@@ -44,25 +44,22 @@ O contrato implementa a interface `IERC20` e inclui:
 - **Símbolo do Token**: `DIO`
 - **Casas Decimais**: `18`
 
-## Guia de Implementação
+## Guia de Implementação Resumido
 
 1. **Configuração do Ambiente**
-   - **Ganache**: Use o Ganache para criar uma rede local Ethereum para testes.
-   - **MetaMask**: Configure a MetaMask para se conectar à rede local criada pelo Ganache.
-   - **Remix IDE**: Acesse [Remix Ethereum IDE](https://remix.ethereum.org) para compilar e implantar o contrato.
-   - **Truffle**: Instale o Truffle com `npm install -g truffle`. Crie um novo projeto com `truffle init`.
+   - **Ganache**: Crie uma rede local Ethereum.
+   - **MetaMask**: Conecte-se à rede do Ganache.
+   - **Remix IDE**: Use o Remix para compilar e implantar o contrato.
+   - **Truffle**: Instale o Truffle e crie um novo projeto com `truffle init`.
 
 2. **Implementação do Contrato**
-      - Inicie o Remix IDE e insira o código do contrato `DioToken` no editor principal.
-      - Execute a compilação do contrato diretamente no Remix. Certifique-se de que não haja erros, e o contrato esteja pronto para ser implantado.
-      - **Preparação do Ambiente:** Abra o Ganache para criar uma blockchain local e garantir a conexão com o Truffle.
-      - **Compilação com Truffle:** No terminal, utilize `truffle compile` para compilar o contrato. Certifique-se de que o processo seja concluído sem falhas.
-      - **Configuração do Truffle:** No arquivo `truffle-config.js`, ajuste as configurações para conectar-se à rede local fornecida pelo Ganache.
-      - **Migração e Implantação:** Execute `truffle migrate` no terminal para realizar a migração e implantação do contrato na sua rede local.
+   - Insira e compile o contrato `DioToken` no Remix.
+   - Configure e compile o contrato com o Truffle.
+   - Ajuste `truffle-config.js` para conectar ao Ganache.
+   - Implemente o contrato com `truffle migrate`.
 
 3. **Interação com o Contrato**
-   - Use a interface do Remix ou o Truffle Console (`truffle console`) para interagir com o contrato e realizar transações de teste.
-   - Verifique o saldo, aprove e transfira tokens entre endereços.
+   - Use o Remix ou Truffle Console para interagir e realizar transações de teste com o contrato.
 
 ## Contribuição
 
