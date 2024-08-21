@@ -7,7 +7,7 @@
 
 ## Objetivo do Projeto
 
-Este projeto implementa um token ERC-20 chamado **DIO Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity. O projeto inclui a criação, transferência e gerenciamento de tokens.
+Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity. O projeto inclui a criação, transferência e gerenciamento de tokens.
 
 ## Tecnologias Empregadas
 
@@ -41,11 +41,11 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 - `approve(address spender, uint256 amount)`: Aprova um spender a gastar uma quantidade específica de tokens.
 - `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando uma permissão prévia.
 
-### Contrato DIOToken
+### Contrato DioToken
 
 O contrato `DioToken` implementa a interface `IERC20` e inclui:
 
-- **Nome do Token**: `DIO Token`
+- **Nome do Token**: `Dio Token`
 - **Símbolo do Token**: `DIO`
 - **Casas Decimais**: `18`
 
@@ -67,7 +67,7 @@ O contrato `DioToken` implementa a interface `IERC20` e inclui:
    - **Truffle**: Instale o Truffle com `npm install -g truffle`. Crie um novo projeto com `truffle init`.
 
 2. **Implementação do Contrato**
-   - Abra o Remix IDE e cole o código do contrato `DIOToken` no editor.
+   - Abra o Remix IDE e cole o código do contrato `DioToken` no editor.
    - Compile o contrato e verifique se não há erros.
    - Implante o contrato na rede local usando Ganache e o Truffle.
      - No terminal, execute `truffle compile` para compilar os contratos.
