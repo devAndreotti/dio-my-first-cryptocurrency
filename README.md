@@ -1,4 +1,4 @@
-# DIO Token - Contrato ERC-20
+# Desafio DIO - Contrato ERC-20
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ethereum_logo_2014.svg" alt="Ethereum Logo" width="250" />
