@@ -1,7 +1,7 @@
 # Desafio DIO - Criando Minha Primeira Criptomoeda
 
 <div align="center">
-  <img src="Thumb.png" alt="Ethereum Logo" width="250" />
+  <img src="Thumb.png" alt="Ethereum Logo"/>
 </div>
 
 ## Objetivo do Projeto
