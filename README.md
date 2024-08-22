@@ -73,4 +73,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 
 ## Nota
 
-Este projeto é uma atividade da **DIO** e demonstra a implementação básica de um token ERC-20. Sinta-se livre para explorar e adaptar.
+Este projeto é para fins educacionais, feito para o desafio da **DIO**. Sinta-se livre para explorar e adaptar.
