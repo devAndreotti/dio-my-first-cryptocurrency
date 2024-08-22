@@ -1,5 +1,3 @@
-quero que torne a visibilidade do readme melhor, mudando contorno de palavras e etc, sem exagero e faça somente isso NAO MUDE O NOME DE NADA:
-
 <!-- Projeto Finalizado -->
 # Desafio DIO: Minha Primeira Criptomoeda
 
