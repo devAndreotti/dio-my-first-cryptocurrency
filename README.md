@@ -25,8 +25,6 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 
 ## Contrato DioToken
 
-O contrato inclui:
-
 - **Nome do Token**: `Dio Token`
 - **Símbolo do Token**: `DIO`
 - **Casas Decimais**: `18`
