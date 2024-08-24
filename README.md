@@ -25,7 +25,7 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 
 ## Contrato DioToken
 
-O contrato implementa a interface `IERC20` e inclui:
+O contrato inclui:
 
 - **Nome do Token**: `Dio Token`
 - **Símbolo do Token**: `DIO`
