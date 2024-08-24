@@ -40,7 +40,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 - `approve(address spender, uint256 amount)`: Aprova um spender a gastar uma quantidade específica de tokens.
 - `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando permissão prévia.
 
-## Guia de Implementação Resumido
+## Guia de Implementação
 
 1. **Configuração do Ambiente**
    - **Ganache**: Crie uma rede local Ethereum.
