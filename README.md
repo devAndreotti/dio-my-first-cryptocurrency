@@ -1,6 +1,17 @@
 <!-- Projeto Finalizado -->
 # Desafio DIO: Minha Primeira Criptomoeda
 
+<p align="center">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
+  <!-- Último commit no GitHub -->
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
+  <!-- Licença do GitHub -->
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=3f3d3a&style=flat-square">
+</p>
+
 <div align="center">
   <img src="Thumb.png" alt="Ganache Banner"/>
 </div>
