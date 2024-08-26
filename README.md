@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Desafio DIO: Minha Primeira Criptomoeda
+# 🪙 Desafio DIO: Minha Primeira Criptomoeda
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
