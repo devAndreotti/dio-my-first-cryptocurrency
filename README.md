@@ -8,19 +8,17 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
   <!-- Último commit no GitHub -->
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
-  <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=3f3d3a&style=flat-square">
 </p>
 
 <div align="center">
   <img src="Thumb.png" alt="Ganache Banner"/>
 </div>
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity.
 
-## Tecnologias Empregadas
+## 🛠 Tecnologias Empregadas
 
 - **Solidity**: Linguagem de programação para contratos inteligentes na Ethereum.
 - **Ganache**: Ferramenta para criar uma blockchain local para testar contratos inteligentes.
@@ -28,19 +26,19 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 - **Remix IDE**: Ambiente integrado para criar, testar e implantar contratos inteligentes na Ethereum.
 - **Truffle**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
 
-## Funcionalidades
+## 🔍 Funcionalidades
 
 - **Transferência de Tokens**: Permite a transferência de tokens entre endereços usando a função `transfer`.
 - **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar uma quantidade específica de tokens e transferir esses tokens usando a função `transferFrom`.
 - **Consulta de Saldo e Permissão**: Consulta o saldo de tokens de um endereço usando a função `balanceOf` e o quanto um endereço pode gastar em nome de outro usando a função `allowance`.
 
-## Contrato DioToken
+## 📜 Contrato DioToken
 
 - **Nome do Token**: `Dio Token`
 - **Símbolo do Token**: `DIO`
 - **Casas Decimais**: `18`
 
-## Interface IERC20
+## 📋 Interface IERC20
 
 A interface `IERC20` define as funções e eventos obrigatórios para um token ERC-20, incluindo:
 
@@ -51,7 +49,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 - `approve(address spender, uint256 amount)`: Aprova um spender a gastar uma quantidade específica de tokens.
 - `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando permissão prévia.
 
-## Guia de Implementação
+## 🛠 Guia de Implementação
 
 1. **Configuração do Ambiente**
    - **Ganache**: Crie uma rede local Ethereum.
@@ -68,7 +66,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 3. **Interação com o Contrato**
    - Use o Remix ou Truffle Console para interagir e realizar transações de teste com o contrato.
 
-## Contribuição
+## 💪 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer um fork do repositório e enviar pull requests.
 
@@ -78,6 +76,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 4. Envie para a branch `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
-## Nota
+## 📝 Nota
 
 Este projeto é para fins educacionais, feito para o desafio da **DIO**. Sinta-se livre para explorar e adaptar.
