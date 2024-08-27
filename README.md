@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# 🪙 Desafio DIO: Minha Primeira Criptomoeda
+# 🪙 Desafio DIO: Meu Primeiro Token
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/dio-my-first-cryptocurrency?color=FFF&labelColor=3f3d3a&style=flat-square">
