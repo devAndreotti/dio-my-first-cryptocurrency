@@ -37,10 +37,10 @@ Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é for
 A interface `IERC20` define as funções e eventos obrigatórios para um token ERC-20, incluindo:
 - `totalSupply()`: Retorna o total de tokens emitidos.
 - `balanceOf(address account)`: Retorna o saldo de tokens de um endereço.
-- `allowance(address owner, address spender)`: Retorna a quantidade de tokens que um spender pode gastar em nome do owner.
+- `allowance(address owner, address spender)`: Retorna a quantia de tokens que um spender pode gastar em nome do owner.
 - `transfer(address recipient, uint256 amount)`: Transfere tokens para outro endereço.
 - `approve(address spender, uint256 amount)`: Aprova um spender a gastar uma quantidade específica de tokens.
-- `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens de um endereço para outro usando permissão prévia.
+- `transferFrom(address sender, address recipient, uint256 amount)`: Transfere tokens usando permissão prévia.
 
 ## 🛠 Guia de Implementação
 1. **Configuração do Ambiente**
