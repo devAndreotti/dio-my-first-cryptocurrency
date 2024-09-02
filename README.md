@@ -17,15 +17,15 @@
 Este projeto implementa um token ERC-20 chamado **Dio Token**. O objetivo é fornecer uma implementação básica de um token ERC-20 utilizando Solidity.
 
 ## 🛠 Tecnologias Empregadas
-- **Solidity**: Linguagem de programação para contratos inteligentes na Ethereum.
-- **Ganache**: Ferramenta para criar uma blockchain local para testar contratos inteligentes.
-- **MetaMask**: Carteira de criptomoedas que permite interagir com a rede Ethereum e seus contratos.
-- **Remix IDE**: Ambiente integrado para criar, testar e implantar contratos inteligentes na Ethereum.
-- **Truffle**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
+- **[Truffle](https://www.trufflesuite.com/truffle)**: Framework para contratos inteligentes, facilitando a escrita, teste e implantação de contratos Ethereum.
+- **[MetaMask](https://metamask.io/)**: Carteira de criptomoedas que permite interagir com a rede Ethereum e seus contratos.
+- **[Remix IDE](https://remix.ethereum.org/)**: Ambiente integrado para criar, testar e implantar contratos inteligentes na Ethereum.
+- **[Ganache](https://www.trufflesuite.com/ganache)**: Ferramenta para criar uma blockchain local para testar contratos inteligentes.
+- **[Solidity](https://soliditylang.org/)**: Linguagem de programação para contratos inteligentes na Ethereum.
 
 ## 🔍 Funcionalidades
 - **Transferência de Tokens**: Permite a transferência de tokens entre endereços usando a função `transfer`.
-- **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar uma quantidade específica de tokens e transferir esses tokens usando a função `transferFrom`.
+- **Aprovação e Transferência de Tokens**: Permite que um endereço aprove outro para gastar e transferir usando a função `transferFrom`.
 - **Consulta de Saldo e Permissão**: Consulta o saldo de tokens de um endereço usando a função `balanceOf` e o quanto um endereço pode gastar em nome de outro usando a função `allowance`.
 
 ## 📜 Contrato DioToken
@@ -46,7 +46,7 @@ A interface `IERC20` define as funções e eventos obrigatórios para um token E
 1. **Configuração do Ambiente**
    - **Ganache**: Crie uma rede local Ethereum.
    - **MetaMask**: Conecte-se à rede do Ganache.
-   - **Remix IDE**: Use o Remix para compilar e implantar o contrato.
+   - **Remix IDE**: Acesse [remix.ethereum](https://remix.ethereum.org) para compilar e implantar o contrato.
    - **Truffle**: Instale o Truffle e crie um novo projeto com `truffle init`.
 2. **Implementação do Contrato**
    - Insira e compile o contrato `DioToken` no Remix.
