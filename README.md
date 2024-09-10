@@ -65,4 +65,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 5. Abra um Pull Request.
 
 ## 📝 Nota
-Este projeto é para fins educacionais, feito para o desafio da **DIO** em parceria com a **Binance**. Sinta-se livre para explorar e adaptar.
+Este projeto é para fins educacionais, feito para o desafio da **DIO** em parceria com a **Binance**.
