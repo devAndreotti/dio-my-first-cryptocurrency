@@ -66,3 +66,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 
 ## 📝 Nota
 Este projeto é para fins educacionais, feito para o desafio da **DIO** em parceria com a **Binance**.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
