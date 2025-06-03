@@ -70,4 +70,9 @@ Este projeto é para fins educacionais, feito para o desafio da **DIO** em parce
 <br>
 
 ---
-<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/seuUsuario">Ricardo Andreotti Gonçalves</a> 🧑‍💻
+</p>
+
+---
